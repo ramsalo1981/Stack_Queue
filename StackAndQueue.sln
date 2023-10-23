@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAStack", "CAStack\CAStack.csproj", "{3B8D4AD6-AB60-40BB-93C5-8ADC5350F7C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAQueue", "CAQueue\CAQueue.csproj", "{2A77DBF2-77BD-4F1A-AC20-2E8D5CC2ABC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8D4AD6-AB60-40BB-93C5-8ADC5350F7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8D4AD6-AB60-40BB-93C5-8ADC5350F7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8D4AD6-AB60-40BB-93C5-8ADC5350F7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8D4AD6-AB60-40BB-93C5-8ADC5350F7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A77DBF2-77BD-4F1A-AC20-2E8D5CC2ABC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A77DBF2-77BD-4F1A-AC20-2E8D5CC2ABC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A77DBF2-77BD-4F1A-AC20-2E8D5CC2ABC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A77DBF2-77BD-4F1A-AC20-2E8D5CC2ABC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611654F3-9848-4D4E-81DF-709603058C96}
+	EndGlobalSection
+EndGlobal

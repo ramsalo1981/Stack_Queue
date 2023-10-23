@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\bin\Debug\net7.0\CAStack.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\refint\CAStack.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\CAStack.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAStack\obj\Debug\net7.0\ref\CAStack.dll

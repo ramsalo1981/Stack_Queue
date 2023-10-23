@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\bin\Debug\net7.0\CAQueue.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\bin\Debug\net7.0\CAQueue.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\bin\Debug\net7.0\CAQueue.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\bin\Debug\net7.0\CAQueue.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\bin\Debug\net7.0\CAQueue.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\CAQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\CAQueue.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\CAQueue.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\CAQueue.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\CAQueue.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\refint\CAQueue.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\CAQueue.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\CAQueue.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\StackAndQueue\CAQueue\obj\Debug\net7.0\ref\CAQueue.dll
